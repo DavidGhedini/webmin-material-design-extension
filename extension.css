@@ -1,3 +1,15 @@
+/*Uncomment lines 3 to 10 below to suppress Webmin logo and replace with own logo*/
+
+/*h2.form-signin-heading {
+  display: none !important; 
+}
+
+i.wbm-webmin
+{
+  display: none !important; 
+}*/
+
+
 .row.icons-row .icons-container {
     border-radius: 25px!important;
     -webkit-filter: none!important;
